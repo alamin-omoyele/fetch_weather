@@ -1,0 +1,4 @@
+city,timestamp,temperature_c,humidity,description
+London,2025-12-17 05:13:25.504131,276.4,92,few clouds
+New York,2025-12-17 05:13:25.856781,271.34,61,clear sky
+Tokyo,2025-12-17 05:13:26.188253,286.19,54,few clouds
